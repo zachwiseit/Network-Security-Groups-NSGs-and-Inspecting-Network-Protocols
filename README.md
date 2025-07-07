@@ -527,5 +527,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 100
 <p>
-<img </p>
+<img <img width="1440" alt="ACN_100" src="https://github.com/user-attachments/assets/305bf1e4-fb24-4e63-b2a3-8a480c615738" />
+</p>
 <p>

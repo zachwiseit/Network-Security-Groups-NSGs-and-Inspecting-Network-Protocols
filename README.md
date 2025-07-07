@@ -317,216 +317,215 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 58
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_58" src="https://github.com/user-attachments/assets/7ce8ead3-8855-4d0e-97f6-5964ea29b285" />
 </p>
 <p>
 59
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_59" src="https://github.com/user-attachments/assets/5d76b691-7e6f-4953-b4e5-8b52fb044b49" />
 </p>
 <p>
 60
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_60" src="https://github.com/user-attachments/assets/5378c3b9-829f-4718-91b6-30f46ba0415d" />
 </p>
 <p>
 61
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_61" src="https://github.com/user-attachments/assets/808b3524-5795-49b4-a153-57ffe4df1e69" />
 </p>
 <p>
 62
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_62" src="https://github.com/user-attachments/assets/5d8b6cff-9fc0-43c8-be74-6432ffa6696a" />
 </p>
 <p>
 63
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_63" src="https://github.com/user-attachments/assets/80ac5862-a61d-47c2-90f0-4bd2c0e662a6" />
 </p>
 <p>
 64
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_64" src="https://github.com/user-attachments/assets/2ceaeae0-41ff-421a-b91b-9347ef06a8dc" />
 </p>
 <p>
 65
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_65" src="https://github.com/user-attachments/assets/c5add192-3d50-47b1-b1b2-4dac2eb16f75" />
 </p>
 <p>
 66
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_66" src="https://github.com/user-attachments/assets/3622f977-d579-4b5b-8e6b-3235b9cabc20" />
 </p>
 <p>
 67
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_67" src="https://github.com/user-attachments/assets/0bba4378-3bb3-4470-8f7e-c1bee73be62a" />
 </p>
 <p>
 68
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_68" src="https://github.com/user-attachments/assets/c1a3a627-591a-4cbf-a407-0aaf1bf48038" />
 </p>
 <p>
 69
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_69" src="https://github.com/user-attachments/assets/9dab7b31-b72b-46b2-8879-8584d6cbb27f" />
 </p>
 <p>
 70
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_70" src="https://github.com/user-attachments/assets/e26ebbd6-8064-439f-a2a6-dbffbc5a0dcf" />
 </p>
 <p>
 71
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_71" src="https://github.com/user-attachments/assets/805f82de-d391-433a-b345-68ef5f6d1115" />
 </p>
 <p>
 72
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_72" src="https://github.com/user-attachments/assets/9e96c173-38b7-43d8-bee5-4a87a30143b1" />
 </p>
 <p>
 73
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_73" src="https://github.com/user-attachments/assets/646c5268-ca60-4f79-bc0e-103b1230331b" />
 </p>
 <p>
 74
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_74" src="https://github.com/user-attachments/assets/7bafff74-e75a-4956-b0fe-f454f2198e25" />
 </p>
 <p>
 75
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_75" src="https://github.com/user-attachments/assets/8c71d513-935b-4693-a072-173237710433" />
 </p>
 <p>
 76
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_76" src="https://github.com/user-attachments/assets/e26b373f-7ed7-485a-a5fa-5d856a524b29" />
 </p>
 <p>
 77
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_77" src="https://github.com/user-attachments/assets/276db2ed-5e74-41a0-99e6-218c3c0bd05e" />
 </p>
 <p>
 78
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_78" src="https://github.com/user-attachments/assets/4d020138-eefd-411c-b45e-8867d8b7ddc7" />
 </p>
 <p>
 79
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_79" src="https://github.com/user-attachments/assets/3a2f43b0-6f2e-453d-a69c-e5f53c174e2b" />
 </p>
 <p>
 80
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_80" src="https://github.com/user-attachments/assets/261e4b7f-117f-486f-a2e9-461f0ef133dd" />
 </p>
 <p>
 81
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_81" src="https://github.com/user-attachments/assets/6a57f506-df4e-436f-8c69-e8cc25fbb974" />
 </p>
 <p>
 82
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_82" src="https://github.com/user-attachments/assets/224e0e1f-2f38-4d4b-9be7-1bd7e41afede" />
 </p>
 <p>
 83
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_83" src="https://github.com/user-attachments/assets/1959b108-e451-4cf3-a0d1-7ff5d493fd89" />
 </p>
 <p>
 84
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_84" src="https://github.com/user-attachments/assets/8be852ba-41a4-4a52-afe4-9469ddd0c773" />
 </p>
 <p>
 85
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_85" src="https://github.com/user-attachments/assets/2559f588-3dd7-4995-913e-787f708b0f13" />
 </p>
 <p>
 86
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_86" src="https://github.com/user-attachments/assets/c2cbbe47-02f4-4dc9-b7c2-dc353a36cd5a" />
 </p>
 <p>
 87
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_87" src="https://github.com/user-attachments/assets/16040530-ceda-4a5b-90e5-d2ca470ca31b" />
 </p>
 <p>
 88
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_88" src="https://github.com/user-attachments/assets/bc852034-48d2-4b59-aad6-e43f17288ee8" />
 </p>
 <p>
 89
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_89" src="https://github.com/user-attachments/assets/e15dac2f-75c3-47f3-a49a-a7afbab940f7" />
 </p>
 <p>
 90
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_90" src="https://github.com/user-attachments/assets/4b321fd6-f444-43f3-897a-d7d8687196ea" />
 </p>
 <p>
 91
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_91" src="https://github.com/user-attachments/assets/39cbb2fa-0a73-4d23-9454-8d95ac0184b2" />
 </p>
 <p>
 92
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_92" src="https://github.com/user-attachments/assets/689f0312-6b66-4a3a-a2e4-d23bc6d8b89d" />
 </p>
 <p>
 93
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_93" src="https://github.com/user-attachments/assets/95ea1f22-d1ae-423b-a762-9d808dfb001d" />
 </p>
 <p>
 94
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_94" src="https://github.com/user-attachments/assets/407e3736-f043-4ca7-b1bc-c17484b07a59" />
 </p>
 <p>
 95
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_95" src="https://github.com/user-attachments/assets/5b858b58-d471-4fbd-9519-6cc569502ef7" />
 </p>
 <p>
 96
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_96" src="https://github.com/user-attachments/assets/e8484d67-bb66-414b-94db-37019c013bee" />
 </p>
 <p>
 97
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_97" src="https://github.com/user-attachments/assets/ff94b629-e189-40fc-af45-931b2ad4879b" />
 </p>
 <p>
 98
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_98" src="https://github.com/user-attachments/assets/6350a7ce-06b9-4fae-bf52-1211d3b75141" />
 </p>
 <p>
 99
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="ACN_99" src="https://github.com/user-attachments/assets/cb76dbad-cf24-4f1e-b03c-20967ddf577a" />
 </p>
 <p>
 100
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img </p>
 <p>

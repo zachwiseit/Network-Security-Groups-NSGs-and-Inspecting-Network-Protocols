@@ -424,22 +424,22 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_95" src="https://github.com/user-attachments/assets/5b858b58-d471-4fbd-9519-6cc569502ef7" />
 </p>
 <p>
-96 Back in ipconfig 
+96 Back in ipconfig you cna see that address there as well. 
 <p>
 <img <img width="1440" alt="ACN_96" src="https://github.com/user-attachments/assets/e8484d67-bb66-414b-94db-37019c013bee" />
 </p>
 <p>
-97
+97 Now collapse Internet Protocol and expand the ICMP (Internet Control Message Protocol). 
 <p>
 <img <img width="1440" alt="ACN_97" src="https://github.com/user-attachments/assets/ff94b629-e189-40fc-af45-931b2ad4879b" />
 </p>
 <p>
-98
+98 Here you can see the Data Payload (the data actualy sent in the ping). 
 <p>
 <img <img width="1440" alt="ACN_98" src="https://github.com/user-attachments/assets/6350a7ce-06b9-4fae-bf52-1211d3b75141" />
 </p>
 <p>
-99
+99 Now ping is just a connection test but with this you can actually see the data that was sent in the ping. 
 <p>
 <img <img width="1440" alt="ACN_99" src="https://github.com/user-attachments/assets/cb76dbad-cf24-4f1e-b03c-20967ddf577a" />
 </p>

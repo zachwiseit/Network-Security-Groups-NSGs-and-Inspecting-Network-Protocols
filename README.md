@@ -205,257 +205,226 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_44" src="https://github.com/user-attachments/assets/786aedbc-b8ba-4c55-8381-23e3875314f8" />
 </p>
 <p>
-46 
+46 Check no for all of these (they don't matter) and click "Accept".
 <p>
 <img <img width="1440" alt="ACN_46" src="https://github.com/user-attachments/assets/add6ed94-3996-44b4-84a6-b91afd8999f2" />
 </p>
 <p>
-47
+47 Next we need to install a protocall anylizer called Wireshark. 
+   From the home page open up Microsoft Edge and search this link https://www.wireshark.org/. 
 <p>
 <img <img width="1440" alt="ACN_47" src="https://github.com/user-attachments/assets/b1c45af4-ced6-4eb1-a704-ab5547a2971e" />
 </p>
 <p>
-48
-<p>
-<img <img width="1440" alt="ACN_48" src="https://github.com/user-attachments/assets/3550a500-84e1-41ba-b504-d2c19790486c" />
-</p>
-<p>
-49
-<p>
-<img <img width="1440" alt="ACN_49" src="https://github.com/user-attachments/assets/d64bb8d4-fde8-4088-9e5b-d37789877b19" />
-</p>
-<p>
-50
+50 Now download the Windows x64 Installer 
 <p>
 <img <img width="1440" alt="ACN_50" src="https://github.com/user-attachments/assets/d974ec18-861e-453c-b505-343982a899e0" />
 </p>
 <p>
-51
+51 When it is finished downloading open the file in downloads. 
 <p>
 <img <img width="1440" alt="ACN_51" src="https://github.com/user-attachments/assets/80697e72-29ae-43fb-aed1-cd2b1358525a" />
 </p>
 <p>
-52
+52 On the set up page click "next". 
 <p>
 <img <img width="1440" alt="ACN_52" src="https://github.com/user-attachments/assets/f1189ef0-29ba-4783-abca-0d6399198cd6" />
 </p>
 <p>
-53
+53 Click "Noted". 
 <p>
 <img <img width="1440" alt="ACN_53" src="https://github.com/user-attachments/assets/70fff573-4e24-472a-82b3-bf7d1f34fda9" />
 </p>
 <p>
-54
+54 Click "Next".
 <p>
 <img <img width="1440" alt="ACN_54" src="https://github.com/user-attachments/assets/e2cc8519-9ec6-44fc-a288-20df9ba0c58c" />
 </p>
 <p>
-55
+55 Click "Next".
 <p>
 <img <img width="1440" alt="ACN_55" src="https://github.com/user-attachments/assets/1f344563-a8d9-4e8c-8e76-7d15f5d7009a" />
 </p>
 <p>
-56
+56 Click "Next".
 <p>
 <img <img width="1440" alt="ACN_56" src="https://github.com/user-attachments/assets/38e6f56a-dd25-4558-bccb-9b0a674b9a5f" />
 </p>
 <p>
-57
+57 Click "Next".
 <p>
 <img <img width="1440" alt="ACN_57" src="https://github.com/user-attachments/assets/b9c2f8d4-9f07-48b0-943c-f54b0744b8e6" />
 </p>
 <p>
-58
+58 Check the box for INstall Npcap and Click "Next".
 <p>
 <img <img width="1440" alt="ACN_58" src="https://github.com/user-attachments/assets/7ce8ead3-8855-4d0e-97f6-5964ea29b285" />
 </p>
 <p>
-59
+59 USBcap isn't necessary. Click "Install".
 <p>
 <img <img width="1440" alt="ACN_59" src="https://github.com/user-attachments/assets/5d76b691-7e6f-4953-b4e5-8b52fb044b49" />
 </p>
 <p>
-60
+60 wait for that to finish installing. 
 <p>
 <img <img width="1440" alt="ACN_60" src="https://github.com/user-attachments/assets/5378c3b9-829f-4718-91b6-30f46ba0415d" />
 </p>
 <p>
-61
+61 Click "I Agree".
 <p>
 <img <img width="1440" alt="ACN_61" src="https://github.com/user-attachments/assets/808b3524-5795-49b4-a153-57ffe4df1e69" />
 </p>
 <p>
-62
+62 Click "Install". 
 <p>
 <img <img width="1440" alt="ACN_62" src="https://github.com/user-attachments/assets/5d8b6cff-9fc0-43c8-be74-6432ffa6696a" />
 </p>
 <p>
-63
+63 When that is complete click "Next". 
 <p>
 <img <img width="1440" alt="ACN_63" src="https://github.com/user-attachments/assets/80ac5862-a61d-47c2-90f0-4bd2c0e662a6" />
 </p>
 <p>
-64
+64 Click "Finish".
 <p>
 <img <img width="1440" alt="ACN_64" src="https://github.com/user-attachments/assets/2ceaeae0-41ff-421a-b91b-9347ef06a8dc" />
 </p>
 <p>
-65
+65 Click "Next". 
 <p>
 <img <img width="1440" alt="ACN_65" src="https://github.com/user-attachments/assets/c5add192-3d50-47b1-b1b2-4dac2eb16f75" />
 </p>
 <p>
-66
+66 Click "Finish"  
+   With Wireshark installed we will be able to see the traffic between going to and from our Virtial machines. 
 <p>
 <img <img width="1440" alt="ACN_66" src="https://github.com/user-attachments/assets/3622f977-d579-4b5b-8e6b-3235b9cabc20" />
 </p>
 <p>
-67
+67 Now we are going open Wireshark and start a capture. 
+   Search foe Wireshark in the search bar and open it. 
 <p>
 <img <img width="1440" alt="ACN_67" src="https://github.com/user-attachments/assets/0bba4378-3bb3-4470-8f7e-c1bee73be62a" />
 </p>
 <p>
-68
+68 Click on "Ethernet" you can see a little line forming. 
+   Indicating that Wireshark is seeing some network adapter. 
 <p>
 <img <img width="1440" alt="ACN_68" src="https://github.com/user-attachments/assets/c1a3a627-591a-4cbf-a407-0aaf1bf48038" />
 </p>
 <p>
-69
+69 Make sure Ethernet is Highlighted (by clicking on it). 
+   THen click the shark fin in the top left corner to Start capturing packets. 
 <p>
 <img <img width="1440" alt="ACN_69" src="https://github.com/user-attachments/assets/9dab7b31-b72b-46b2-8879-8584d6cbb27f" />
 </p>
 <p>
-70
+70 Now (in purple) you are seeing all the network traffic that is happening on the back end of this computer. 
 <p>
 <img <img width="1440" alt="ACN_70" src="https://github.com/user-attachments/assets/e26ebbd6-8064-439f-a2a6-dbffbc5a0dcf" />
 </p>
 <p>
-71
+71 Now we are going to filter for icmp traffic (Showign whenever something is pinged ). 
+   At the top search bar type icmp and enter. 
 <p>
 <img <img width="1440" alt="ACN_71" src="https://github.com/user-attachments/assets/805f82de-d391-433a-b345-68ef5f6d1115" />
 </p>
 <p>
-72
+72 Next we need to retrieve the private IP address of the linux-VM and attempt to ping it from within the Windows 10 VM. 
+   Back in azure go to Virtual machines and click the linx-vm. 
 <p>
 <img <img width="1440" alt="ACN_72" src="https://github.com/user-attachments/assets/9e96c173-38b7-43d8-bee5-4a87a30143b1" />
 </p>
 <p>
-73
+73 In Overview scroll down to Private IP address and copy that address. 
 <p>
 <img <img width="1440" alt="ACN_73" src="https://github.com/user-attachments/assets/646c5268-ca60-4f79-bc0e-103b1230331b" />
 </p>
 <p>
-74
+74 Now go back into the Windows VM and open up Powershell. 
 <p>
 <img <img width="1440" alt="ACN_74" src="https://github.com/user-attachments/assets/7bafff74-e75a-4956-b0fe-f454f2198e25" />
 </p>
 <p>
-75
+75 From here we are going to attempt to ping the Linux VM from the Windows VM
 <p>
 <img <img width="1440" alt="ACN_75" src="https://github.com/user-attachments/assets/8c71d513-935b-4693-a072-173237710433" />
 </p>
 <p>
-76
+76 Type ping followed by the private IP address of the Linux VM and press enter. 
 <p>
 <img <img width="1440" alt="ACN_76" src="https://github.com/user-attachments/assets/e26b373f-7ed7-485a-a5fa-5d856a524b29" />
 </p>
 <p>
-77
+77 You will get a few reply's from the Linux VM. 
 <p>
 <img <img width="1440" alt="ACN_77" src="https://github.com/user-attachments/assets/276db2ed-5e74-41a0-99e6-218c3c0bd05e" />
 </p>
 <p>
-78
-<p>
-<img <img width="1440" alt="ACN_78" src="https://github.com/user-attachments/assets/4d020138-eefd-411c-b45e-8867d8b7ddc7" />
-</p>
-<p>
-79
-<p>
-<img <img width="1440" alt="ACN_79" src="https://github.com/user-attachments/assets/3a2f43b0-6f2e-453d-a69c-e5f53c174e2b" />
-</p>
-<p>
-80
+80 Here is the icmp traffic in Wireshark with the filter. 
 <p>
 <img <img width="1440" alt="ACN_80" src="https://github.com/user-attachments/assets/261e4b7f-117f-486f-a2e9-461f0ef133dd" />
 </p>
 <p>
-81
+81 Now we are going to clear this and restart the capture. 
+   In the top left click the green shark fin to Restart current capture. 
 <p>
 <img <img width="1440" alt="ACN_81" src="https://github.com/user-attachments/assets/6a57f506-df4e-436f-8c69-e8cc25fbb974" />
 </p>
 <p>
-82
+82 click "Continue without saving".
 <p>
 <img <img width="1440" alt="ACN_82" src="https://github.com/user-attachments/assets/224e0e1f-2f38-4d4b-9be7-1bd7e41afede" />
 </p>
 <p>
-83
+83 In Powershell do that same ping again. 
 <p>
 <img <img width="1440" alt="ACN_83" src="https://github.com/user-attachments/assets/1959b108-e451-4cf3-a0d1-7ff5d493fd89" />
 </p>
 <p>
-84
+84 In powershell you can only see the four repplies. 
 <p>
 <img <img width="1440" alt="ACN_84" src="https://github.com/user-attachments/assets/8be852ba-41a4-4a52-afe4-9469ddd0c773" />
 </p>
 <p>
-85
-<p>
-<img <img width="1440" alt="ACN_85" src="https://github.com/user-attachments/assets/2559f588-3dd7-4995-913e-787f708b0f13" />
-</p>
-<p>
-86
+86 With the filter you can see both the request made by the Windows computer and the reply from the Linux Computer. 
 <p>
 <img <img width="1440" alt="ACN_86" src="https://github.com/user-attachments/assets/c2cbbe47-02f4-4dc9-b7c2-dc353a36cd5a" />
 </p>
 <p>
-87
-<p>
-<img <img width="1440" alt="ACN_87" src="https://github.com/user-attachments/assets/16040530-ceda-4a5b-90e5-d2ca470ca31b" />
-</p>
-<p>
-88
-<p>
-<img <img width="1440" alt="ACN_88" src="https://github.com/user-attachments/assets/bc852034-48d2-4b59-aad6-e43f17288ee8" />
-</p>
-<p>
-89
+89 If you click on the first capture you can see a lot of information in the bottom left box. 
 <p>
 <img <img width="1440" alt="ACN_89" src="https://github.com/user-attachments/assets/e15dac2f-75c3-47f3-a49a-a7afbab940f7" />
 </p>
 <p>
-90
+90 Expand Ethernet II and that will show you the mac address and the source mac address. 
 <p>
 <img <img width="1440" alt="ACN_90" src="https://github.com/user-attachments/assets/4b321fd6-f444-43f3-897a-d7d8687196ea" />
 </p>
 <p>
-91
+91 Go back into Powershell and type "ipconfig /all" and press enter. 
 <p>
 <img <img width="1440" alt="ACN_91" src="https://github.com/user-attachments/assets/39cbb2fa-0a73-4d23-9454-8d95ac0184b2" />
 </p>
 <p>
-92
+92 Here you can also see the physical Address. 
 <p>
 <img <img width="1440" alt="ACN_92" src="https://github.com/user-attachments/assets/689f0312-6b66-4a3a-a2e4-d23bc6d8b89d" />
 </p>
 <p>
-93
+93 Going back to Wireshaek you can see the same Phyisical Address.
 <p>
 <img <img width="1440" alt="ACN_93" src="https://github.com/user-attachments/assets/95ea1f22-d1ae-423b-a762-9d808dfb001d" />
 </p>
 <p>
-94
-<p>
-<img <img width="1440" alt="ACN_94" src="https://github.com/user-attachments/assets/407e3736-f043-4ca7-b1bc-c17484b07a59" />
-</p>
-<p>
-95
+95 Collapse Ethernet two and expand Internet Protocol showing the network layer. 
+   Here you can see information like the source IP address (Windows VM private IP address). 
 <p>
 <img <img width="1440" alt="ACN_95" src="https://github.com/user-attachments/assets/5b858b58-d471-4fbd-9519-6cc569502ef7" />
 </p>
 <p>
-96
+96 Back in ipconfig 
 <p>
 <img <img width="1440" alt="ACN_96" src="https://github.com/user-attachments/assets/e8484d67-bb66-414b-94db-37019c013bee" />
 </p>

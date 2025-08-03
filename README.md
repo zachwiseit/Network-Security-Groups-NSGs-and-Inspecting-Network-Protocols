@@ -40,7 +40,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 4 Choose a name for your Resource group. Then choose a Region
-  Click "Reveiw + create".
+  Click "Reviw + create".
 <p> 
 <img <img width="1440" alt="ACN_4" src="https://github.com/user-attachments/assets/dafa6038-85f8-46a4-83c5-b6e7536b3ffb" />
 </p>
@@ -65,7 +65,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_10" src="https://github.com/user-attachments/assets/d3d22d5d-14f2-4a81-892e-986c7c5138a5" />
 </p>
 <p>
-11 Scroll down, for the Image choose Windows 10 Pro, and for the size pick anything with atleast 2 vcpus. 
+11 Scroll down, for the Image choose Windows 10 Pro, and for the size pick anything "with at least 2 vCPUs". 
 <p>
 <img <img width="1440" alt="ACN_11" src="https://github.com/user-attachments/assets/69b9be87-5df1-4cc8-baa9-dc27c4b7ef71" />
 </p>
@@ -81,8 +81,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_13" src="https://github.com/user-attachments/assets/279242cb-cda4-47cf-a169-6e261d14e4dd" />
 </p>
 <p>
-16 Here we are going to create out own Virtual Network. (Normally this automatically created but this time we are making our own.)
-   To the right of Virtial network click "Create new".
+16 Here we are going to create our own Virtual Network. (Normally this automatically created but this time we are making our own.)
+   To the right of Virtual network click "Create new".
 <p>
 <img <img width="1440" alt="ACN_16" src="https://github.com/user-attachments/assets/e26dfb86-f0a7-4249-a977-462205c4f271" />
 </p>
@@ -113,7 +113,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 24 Choose the Resource group created earlier. 
-   for the VM name choose something like "Linux-vm" or any name to help Identify this is a Linux VM. 
+   For the VM name, choose something like "Linux-vm" or any name to help identify that this is a Linux VM. 
    Choose the same Region as before. 
 <p>
 <img <img width="1440" alt="ACN_24" src="https://github.com/user-attachments/assets/4f735588-4b51-4a0a-a57a-620480583e31" />
@@ -121,7 +121,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 25 Scroll down.
    Image: choose UBuntu Server 22.04.
-   Size: Anuthing with atleast 2 vcpus.
+   Size: Anything with at least 2 vCPUs.
 <p>
 <img <img width="1440" alt="ACN_25" src="https://github.com/user-attachments/assets/12610ff2-1adb-4223-8732-0351f0f6125a" />
 </p>
@@ -154,13 +154,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_32" src="https://github.com/user-attachments/assets/cf78de25-1109-4de2-96cd-4762aafae966" />
 </p>
 <p>
-33 Now we need to confirm that both VM's are on the same network. 
+33 Now we need to confirm that both VMs are on the same network. 
    Go to Virtual Machines and click the linux vm.
 <p>
 <img <img width="1440" alt="ACN_33" src="https://github.com/user-attachments/assets/1b793641-22e6-4ce3-a69f-ee72ce278134" />
 </p>
 <p>
-34 In Overveiw scroll down to Virtual network/subnet. 
+34 In Overview scroll down to Virtual network/subnet. 
    The virtual network should be the one that was created and the subnet default. 
 <p>
 <img <img width="1440" alt="ACN_34" src="https://github.com/user-attachments/assets/f34995c7-b206-42a8-b91f-3645cab738b7" />
@@ -171,7 +171,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_35" src="https://github.com/user-attachments/assets/3cbdd19f-5017-4f60-b816-e75163be1eca" />
 </p>
 <p>
-37 Im doing this from a macbook so I need to download and use the microsoft app to access these virtual machines. 
+37 I'm doing this from a macbook so I need to download and use the Microsoft Remote Desktop app to access these virtual machines. 
    First go into Virtual Machines and copy the public IP address for the Windows VM. 
 <p>
 <img <img width="1440" alt="ACN_37" src="https://github.com/user-attachments/assets/a4cef65a-4820-409c-b67c-330138a62c33" />
@@ -210,8 +210,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_46" src="https://github.com/user-attachments/assets/add6ed94-3996-44b4-84a6-b91afd8999f2" />
 </p>
 <p>
-47 Next we need to install a protocall anylizer called Wireshark. 
-   From the home page open up Microsoft Edge and search this link https://www.wireshark.org/. 
+47 Next we need to install a protocol analyzer called Wireshark. 
+   From the home page open up Microsoft Edge and go to this link link https://www.wireshark.org/. 
 <p>
 <img <img width="1440" alt="ACN_47" src="https://github.com/user-attachments/assets/b1c45af4-ced6-4eb1-a704-ab5547a2971e" />
 </p>
@@ -256,7 +256,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_57" src="https://github.com/user-attachments/assets/b9c2f8d4-9f07-48b0-943c-f54b0744b8e6" />
 </p>
 <p>
-58 Check the box for INstall Npcap and Click "Next".
+58 Check the box for Install Npcap and Click "Next".
 <p>
 <img <img width="1440" alt="ACN_58" src="https://github.com/user-attachments/assets/7ce8ead3-8855-4d0e-97f6-5964ea29b285" />
 </p>
@@ -266,7 +266,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_59" src="https://github.com/user-attachments/assets/5d76b691-7e6f-4953-b4e5-8b52fb044b49" />
 </p>
 <p>
-60 wait for that to finish installing. 
+60 Wait for the installation to complete. 
 <p>
 <img <img width="1440" alt="ACN_60" src="https://github.com/user-attachments/assets/5378c3b9-829f-4718-91b6-30f46ba0415d" />
 </p>
@@ -297,13 +297,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 66 Click "Finish"  
-   With Wireshark installed we will be able to see the traffic between going to and from our Virtial machines. 
+   With Wireshark installed we will be able to see the traffic between going to and from our Virtual machines. 
 <p>
 <img <img width="1440" alt="ACN_66" src="https://github.com/user-attachments/assets/3622f977-d579-4b5b-8e6b-3235b9cabc20" />
 </p>
 <p>
 67 Now we are going open Wireshark and start a capture. 
-   Search foe Wireshark in the search bar and open it. 
+   Search for Wireshark in the search bar and open it. 
 <p>
 <img <img width="1440" alt="ACN_67" src="https://github.com/user-attachments/assets/0bba4378-3bb3-4470-8f7e-c1bee73be62a" />
 </p>
@@ -315,7 +315,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 69 Make sure Ethernet is Highlighted (by clicking on it). 
-   THen click the shark fin in the top left corner to Start capturing packets. 
+   Then click the shark fin in the top left corner to Start capturing packets. 
 <p>
 <img <img width="1440" alt="ACN_69" src="https://github.com/user-attachments/assets/9dab7b31-b72b-46b2-8879-8584d6cbb27f" />
 </p>
@@ -325,14 +325,14 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_70" src="https://github.com/user-attachments/assets/e26ebbd6-8064-439f-a2a6-dbffbc5a0dcf" />
 </p>
 <p>
-71 Now we are going to filter for icmp traffic (Showign whenever something is pinged ). 
+71 Now we are going to filter for icmp traffic (Showing whenever something is pinged ). 
    At the top search bar type icmp and enter. 
 <p>
 <img <img width="1440" alt="ACN_71" src="https://github.com/user-attachments/assets/805f82de-d391-433a-b345-68ef5f6d1115" />
 </p>
 <p>
 72 Next we need to retrieve the private IP address of the linux-VM and attempt to ping it from within the Windows 10 VM. 
-   Back in azure go to Virtual machines and click the linx-vm. 
+   Back in azure go to Virtual machines and click the linux-vm. 
 <p>
 <img <img width="1440" alt="ACN_72" src="https://github.com/user-attachments/assets/9e96c173-38b7-43d8-bee5-4a87a30143b1" />
 </p>
@@ -357,7 +357,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_76" src="https://github.com/user-attachments/assets/e26b373f-7ed7-485a-a5fa-5d856a524b29" />
 </p>
 <p>
-77 You will get a few reply's from the Linux VM. 
+77 You will get a few replies from the Linux VM. 
 <p>
 <img <img width="1440" alt="ACN_77" src="https://github.com/user-attachments/assets/276db2ed-5e74-41a0-99e6-218c3c0bd05e" />
 </p>
@@ -373,7 +373,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_81" src="https://github.com/user-attachments/assets/6a57f506-df4e-436f-8c69-e8cc25fbb974" />
 </p>
 <p>
-82 click "Continue without saving".
+82 Click "Continue without saving".
 <p>
 <img <img width="1440" alt="ACN_82" src="https://github.com/user-attachments/assets/224e0e1f-2f38-4d4b-9be7-1bd7e41afede" />
 </p>
@@ -383,7 +383,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_83" src="https://github.com/user-attachments/assets/1959b108-e451-4cf3-a0d1-7ff5d493fd89" />
 </p>
 <p>
-84 In powershell you can only see the four repplies. 
+84 In powershell you can only see the four replies. 
 <p>
 <img <img width="1440" alt="ACN_84" src="https://github.com/user-attachments/assets/8be852ba-41a4-4a52-afe4-9469ddd0c773" />
 </p>
@@ -413,7 +413,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_92" src="https://github.com/user-attachments/assets/689f0312-6b66-4a3a-a2e4-d23bc6d8b89d" />
 </p>
 <p>
-93 Going back to Wireshaek you can see the same Phyisical Address.
+93 Going back to Wireshark you can see the same Physical Address.
 <p>
 <img <img width="1440" alt="ACN_93" src="https://github.com/user-attachments/assets/95ea1f22-d1ae-423b-a762-9d808dfb001d" />
 </p>
@@ -424,7 +424,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_95" src="https://github.com/user-attachments/assets/5b858b58-d471-4fbd-9519-6cc569502ef7" />
 </p>
 <p>
-96 Back in ipconfig you cna see that address there as well. 
+96 Back in ipconfig you can see that address there as well. 
 <p>
 <img <img width="1440" alt="ACN_96" src="https://github.com/user-attachments/assets/e8484d67-bb66-414b-94db-37019c013bee" />
 </p>
@@ -434,7 +434,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img <img width="1440" alt="ACN_97" src="https://github.com/user-attachments/assets/ff94b629-e189-40fc-af45-931b2ad4879b" />
 </p>
 <p>
-98 Here you can see the Data Payload (the data actualy sent in the ping). 
+98 Here you can see the Data Payload (the data actually sent in the ping). 
 <p>
 <img <img width="1440" alt="ACN_98" src="https://github.com/user-attachments/assets/6350a7ce-06b9-4fae-bf52-1211d3b75141" />
 </p>

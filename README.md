@@ -14,18 +14,20 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
+- Windows App(macOS)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
+- macOS Sonama 14.6.1
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create a Linux VM and a Windows VM
+- Observe ICMP Traffic
+- Configure a Firewall
+- Observe SSH, DHCP, DNS, and RDP Traffic
 
 <h2>Actions and Observations</h2>
 

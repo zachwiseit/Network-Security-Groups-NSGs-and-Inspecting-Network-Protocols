@@ -452,4 +452,4 @@ If you click on the next packet you will find very similar information except re
 </p>
 <p>
 
-  Use this link to move on to the next step in the tutorial. [Configuring-Firewalls-and-Monitoring-Common-Network-Protocols](https://github.com/zachwiseit/Configuring-Firewalls-and-Monitoring-Common-Network-Protocols/blob/main/README.md)
+  Use this link to move on to the next steps in the tutorial. [Configuring-Firewalls-and-Monitoring-Common-Network-Protocols](https://github.com/zachwiseit/Configuring-Firewalls-and-Monitoring-Common-Network-Protocols/blob/main/README.md)
